@@ -1,0 +1,14 @@
+body{
+    background-image: url("Images/Short\ URL.jpg");
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    font-size: 70px;
+}
+#mainimage{
+    width: 100px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
